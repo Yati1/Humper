@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
    <metadata minClientVersion="2.8.1">
        <id>Humper</id>
-       <version>$version$</version>
+       <version>0.5.9</version>
        <title>Humper</title>
        <authors>Aloïs Deniel</authors>
-       <owners>Aloïs Deniel</owners>
-     <licenseUrl>https://github.com/aloisdeniel/Humper/blob/master/LICENSE</licenseUrl>
-     <projectUrl>https://github.com/aloisdeniel/Humper</projectUrl>
-     <iconUrl>https://raw.githubusercontent.com/aloisdeniel/Humper/master/Documentation/Logo.png</iconUrl>
+       <owners>Yathindu Hettiarachchige</owners>
+     <licenseUrl>https://github.com/Yati1/Humper/blob/master/LICENSE</licenseUrl>
+     <projectUrl>https://github.com/Yati1/Humper</projectUrl>
+     <iconUrl>https://raw.githubusercontent.com/Yati1/Humper/master/Documentation/Logo.png</iconUrl>
        <requireLicenseAcceptance>false</requireLicenseAcceptance>
        <description>Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB).</description>
        <summary>Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) .</summary>

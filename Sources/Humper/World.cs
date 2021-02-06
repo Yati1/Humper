@@ -29,6 +29,11 @@
 			return box;
 		}
 
+		public void Add(IBox box)
+        {
+			this.grid.Add(box);
+        }
+
 		public IEnumerable<IBox> Find(float x, float y, float w, float h)
 		{
 			x = Math.Max(0, Math.Min(x, this.Bounds.Right - w));
